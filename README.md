@@ -42,10 +42,14 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-Home Page <img width="1327" height="743" alt="Screenshot 2026-03-10 093225" src="https://github.com/user-attachments/assets/d389e432-2926-4b9a-ad7b-6ac087b44853" />
-Overall <img width="1328" height="743" alt="Screenshot 2026-03-10 093259" src="https://github.com/user-attachments/assets/3b6c05d0-438b-478c-9308-5827361a7f2d" />
-Calculate <img width="1326" height="746" alt="Screenshot 2026-03-10 093320" src="https://github.com/user-attachments/assets/cef970d7-e64e-4b79-ab83-279e984a4d24" />
-Member <img width="1326" height="743" alt="Screenshot 2026-03-10 093339" src="https://github.com/user-attachments/assets/56959ab6-8f73-4cab-a407-d4e7d1af4fe2" />
+Home Page 
+<img width="1327" height="743" alt="Screenshot 2026-03-10 093225" src="https://github.com/user-attachments/assets/d389e432-2926-4b9a-ad7b-6ac087b44853" />
+Overall Page
+<img width="1328" height="743" alt="Screenshot 2026-03-10 093259" src="https://github.com/user-attachments/assets/3b6c05d0-438b-478c-9308-5827361a7f2d" />
+Calculate 
+<img width="1326" height="746" alt="Screenshot 2026-03-10 093320" src="https://github.com/user-attachments/assets/cef970d7-e64e-4b79-ab83-279e984a4d24" />
+Member
+<img width="1326" height="743" alt="Screenshot 2026-03-10 093339" src="https://github.com/user-attachments/assets/56959ab6-8f73-4cab-a407-d4e7d1af4fe2" />
 
 
 ---
