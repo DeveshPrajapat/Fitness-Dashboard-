@@ -60,8 +60,4 @@ Member
 - Monitor monthly business performance
 - Calculate member health metrics
 
----
 
-## 👤 Author
-Your Name  
-Data Analytics Project
